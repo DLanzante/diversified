@@ -1,0 +1,4 @@
+Django>=4.0,<5.0
+djangorestframework>=3.13,<4.0
+psycopg2>=2.9,<3.0  # For PostgreSQL
+gunicorn>=20.1,<21.0
