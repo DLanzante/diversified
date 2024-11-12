@@ -84,13 +84,11 @@ We are going to be going over some of the most basic instructions of how to inst
 1. Acceptance Criteria for A):
    Content Submission - The user must be able to submit posts or articles that are centered around neurodiversity, autism awareness, and similar topics. There should be an option to categorize the content (e.g., "Autism Awareness", "Neurodivergence", "Educational", etc.) to ensure proper sorting and visibility. There should also be sections for Accessibility Features and Content Moderation.
    
-2. Acceptance Criteria for B):
+2. Acceptance Criteria for B): The user of my API should be able to have access to community directories and discover relevant material that they want to view daily. This is also going to be including a community feedback and customization feature along with post engagement, post visibility/accessability and real-time interactions!
 
-3. Acceptance Ctriteria for C):
+3. Acceptance Ctriteria for C): As an admin i want to be able to have the right to moderate content, moderate notifications and to keep a record of all actions, monitor any abuse of power, admins taking actions on other admins, and finally how to escalate certain actionary items.
 
-4. Acceptance Criteria for D):
-
-5. Acceptance Criteria for E):
+4. Acceptance Criteria for D): This system must allow for site Admins to retrieve all comments from the webiste as well as all posts. This is also not limited to viewing statistics, data reporting, custom filters, user privacy and anonymoty, and lastly real-time data.
 
 #### Mis-User Stories
 
@@ -103,7 +101,7 @@ We are going to be going over some of the most basic instructions of how to inst
 
 4. Mis-User Story for D): As an admin I want to be able to have full power to take out other people's posts and accounts without the approval from other admins.
 
-5. Mis-User Story for E):     
+5. Mis-User Story for E): As an Administrator, I want to be able to pull all comments and provide raw data directly to interested buyers without any processing or analysis, so they can see everything without any filtering or privacy concerns.     
 
 #### Mitigating Criteria
 
@@ -111,16 +109,13 @@ Requirmenets you put in a system to prevent mis-user stories
 
 1. Mitigation for A): The absolute best mitigating criteria is going to include but is not limited to improved accessibility features, content moderation and anti-bullying training and policy acknowledgment, clear communication and user support, as well as content reviews and a community of empowerment! This site is also going to be including educatuon resources and awareness pages.
 
-2. Mitigation for B): 
+2. Mitigation for B): The main mitigations for a user of my API is going to be improvising community discovery through advanced searching functionality as well as enhanced accessibility features such as sharing and support personalization for each individual
 
-3. Mitigation for C):
+3. Mitigation for C): As an admin I need to be able to put forth clear moderating guidelines as well as admin oversights such as allowing for peer revisioning as well as allowing for multiple admins needing to be present and to sing off on any deletions or any post modifications/ account modifications. Admins must follow automated checks as well as escalation procedures!
 
-4. Mitigation for D):
-
-5. Mitigation for E):
+4. Mitigation for D): For proper site administrating I am going to have to be providing data anonymoty and provacy, data processing, real-time data and finally secure API access.
 
 ### Diagrams
-
 
 #### Mockup
 
