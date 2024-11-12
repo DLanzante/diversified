@@ -110,7 +110,7 @@ Requirmenets you put in a system to prevent mis-user stories
 
 ### Diagrams
 
-![Context Diagram](image_url)
+![Context Diagram](https://github.com/DLanzante/diversified/blob/main/docs/System%20Context%20Diagram.png)
 ![Container Diagram](image_url)
 ![Component Diagram](image_url)
 ![Component Diagram](image_url)
