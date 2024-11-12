@@ -90,7 +90,10 @@ We are going to be going over some of the most basic instructions of how to inst
 
 #### Mis-User Stories
 
-Malicious user stories
+1. Mis-User Story for A):
+   
+2. 
+3. 
 
 #### Mitigating Criteria
 
