@@ -65,23 +65,34 @@ We are going to be going over some of the most basic instructions of how to inst
 
 1. User Story:
    ```bash
-   As a person with autism, I want to be able to submit and post certain things that I am passionate about others learning about so that I can not only educate others but also to spread awareness and a safe space for others with neuro-divergent conditions.
+   A). As a person with autism, I want to be able to submit and post certain things that I am passionate about others learning about so that I can not only educate others but also to spread awareness and a safe space for others with neuro-divergent conditions.
 
 2. User Story:
    ```bash
-   As a neuro-divergent individual I want to be able to view the communities posts that I am interested in so that I may be able to comment and share/spread my expereinces as well
+   B). As a neuro-divergent individual I want to be able to view the communities posts that I am interested in so that I may be able to comment and share/spread my expereinces as well
    
 3. User Story:
    ```bash
-   As an **Administrator** I want to be able to not only have the right to take on and off posts that are harmful and cross the community guidelines as well as ensure that others aren't abusing policy!
+   C). As a site administrator, I want to be able to not only have the right to take on and off posts that are harmful and cross the community guidelines as well as ensure that others aren't abusing policy!
 
 4. User Story:
    ```bash
-   As an **Administrator** I want to be able to pull all comments and provide statistics to interested buyers so that they can see how many people view the site as well as what they are doing while on the site to better provide a solid starting point for possibly a futher development of the web api
+   D. As an Administrator I want to be able to pull all comments and provide statistics to interested buyers so that they can see how many people view the site as well as what they are doing while on the site to better provide a solid starting point for possibly a futher development of the web api
+
+5. User Story:
+   ```bash
+   E). As a site user, I want to be able to post, comment, edit, and like/dislike certain content posted by others and myself.
 
 #### Acceptance-Criteria
 
-Requirements for the user stories to be realized!
+1. Acceptance Criteria for A):
+   ```bash
+   Content Submission - The user must be able to submit posts or articles that are centered around neurodiversity, autism awareness, and similar topics. There should be an option to categorize the content (e.g., "Autism Awareness", "Neurodivergence", "Educational", etc.) to ensure proper sorting and visibility.
+   
+3. Acceptance Criteria for B):
+4. Acceptance Ctriteria for C):
+5. Acceptance Criteria for D):
+6. Acceptance Criteria for E):
 
 #### Mis-User Stories
 
