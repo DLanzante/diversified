@@ -85,8 +85,11 @@ We are going to be going over some of the most basic instructions of how to inst
    Content Submission - The user must be able to submit posts or articles that are centered around neurodiversity, autism awareness, and similar topics. There should be an option to categorize the content (e.g., "Autism Awareness", "Neurodivergence", "Educational", etc.) to ensure proper sorting and visibility. There should also be sections for Accessibility Features and Content Moderation.
    
 2. Acceptance Criteria for B):
+
 3. Acceptance Ctriteria for C):
+
 4. Acceptance Criteria for D):
+
 5. Acceptance Criteria for E):
 
 #### Mis-User Stories
@@ -94,19 +97,26 @@ We are going to be going over some of the most basic instructions of how to inst
 1. Mis-User Story for A):
    As a person with autism, I want to be able to post content, but the process and interactions are too difficult or inaccessible, and I face overwhelming negative feedback that discourages me from sharing my ideas and feelings.
 
-2. Mis-User Story for B):
-3. Mis-User Story for C):
-4. Mis-User Story for D):
+2. Mis-User Story for B): As a neuro-divergent individual, I want to engage with posts in communities I’m interested in, but the content is difficult to access, the discussions are not inclusive, and I feel isolated and unsafe when sharing my thoughts.
+
+3. Mis-User Story for C): As a malicious user i want to be able to post bad about other people and make sure that this information is not spread and make sure that neuro-divergent individuals don't get the proper chances they deserve.
+
+4. Mis-User Story for D): As an admin I want to be able to have full power to take out other people's posts and accounts without the approval from other admins.
+
 5. Mis-User Story for E):     
 
 #### Mitigating Criteria
 
 Requirmenets you put in a system to prevent mis-user stories
 
-1. Mitigation for A):
-2. Mitigation for B):
+1. Mitigation for A): The absolute best mitigating criteria is going to include but is not limited to improved accessibility features, content moderation and anti-bullying training and policy acknowledgment, clear communication and user support, as well as content reviews and a community of empowerment! This site is also going to be including educatuon resources and awareness pages.
+
+2. Mitigation for B): 
+
 3. Mitigation for C):
+
 4. Mitigation for D):
+
 5. Mitigation for E):
 
 ### Diagrams
@@ -115,7 +125,7 @@ Requirmenets you put in a system to prevent mis-user stories
 #### Mockup
 
 - This is a Mockup to understand what vision I want to pull together for my project!
-![Rough Mockup]()
+![Rough Mockup](https://github.com/DLanzante/diversified/blob/main/docs/mockup.PNG)
 
 #### C4
 
