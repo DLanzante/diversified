@@ -83,23 +83,38 @@ We are going to be going over some of the most basic instructions of how to inst
 1. Acceptance Criteria for A):
    Content Submission - The user must be able to submit posts or articles that are centered around neurodiversity, autism awareness, and similar topics. There should be an option to categorize the content (e.g., "Autism Awareness", "Neurodivergence", "Educational", etc.) to ensure proper sorting and visibility. There should also be sections for Accessibility Features and Content Moderation.
    
-3. Acceptance Criteria for B):
-4. Acceptance Ctriteria for C):
-5. Acceptance Criteria for D):
-6. Acceptance Criteria for E):
+2. Acceptance Criteria for B):
+3. Acceptance Ctriteria for C):
+4. Acceptance Criteria for D):
+5. Acceptance Criteria for E):
 
 #### Mis-User Stories
 
 1. Mis-User Story for A):
-   
-2. 
-3. 
+   As a person with autism, I want to be able to post content, but the process and interactions are too difficult or inaccessible, and I face overwhelming negative feedback that discourages me from sharing my ideas and feelings.
+
+2. Mis-User Story for B):
+3. Mis-User Story for C):
+4. Mis-User Story for D):
+5. Mis-User Story for E):     
 
 #### Mitigating Criteria
 
 Requirmenets you put in a system to prevent mis-user stories
 
+1. Mitigation for A):
+2. Mitigation for B):
+3. Mitigation for C):
+4. Mitigation for D):
+5. Mitigation for E):
+
 ### Diagrams
+
+![Context Diagram](image_url)
+![Container Diagram](image_url)
+![Component Diagram](image_url)
+![Component Diagram](image_url)
+![Component Diagram](image_url)
 
 #### Mockup
 
