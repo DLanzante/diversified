@@ -45,6 +45,7 @@ We are going to be going over some of the most basic instructions of how to inst
    
 3. Using GitHub for Version Control
     ```bash
+    git status
     git init
     git remote add origin <your-github-repository-url>
     git add .
@@ -110,15 +111,16 @@ Requirmenets you put in a system to prevent mis-user stories
 
 ### Diagrams
 
+
+#### Mockup
+
+#### C4
+
 ![Context Diagram](https://github.com/DLanzante/diversified/blob/main/docs/System%20Context%20Diagram.png)
 ![Container Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Container%20Diagram.png)
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram.png)
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram%202.png)
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%203%20API%20Server.png)
-
-#### Mockup
-
-#### C4
 
 [Good Luck]
 
