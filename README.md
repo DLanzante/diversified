@@ -111,10 +111,10 @@ Requirmenets you put in a system to prevent mis-user stories
 ### Diagrams
 
 ![Context Diagram](https://github.com/DLanzante/diversified/blob/main/docs/System%20Context%20Diagram.png)
-![Container Diagram](image_url)
-![Component Diagram](image_url)
-![Component Diagram](image_url)
-![Component Diagram](image_url)
+![Container Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Container%20Diagram.png)
+![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram.png)
+![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram%202.png)
+![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%203%20API%20Server.png)
 
 #### Mockup
 
