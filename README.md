@@ -64,30 +64,24 @@ We are going to be going over some of the most basic instructions of how to inst
 ### User-Stories
 
 1. User Story:
-   ```bash
    A). As a person with autism, I want to be able to submit and post certain things that I am passionate about others learning about so that I can not only educate others but also to spread awareness and a safe space for others with neuro-divergent conditions.
 
 2. User Story:
-   ```bash
    B). As a neuro-divergent individual I want to be able to view the communities posts that I am interested in so that I may be able to comment and share/spread my expereinces as well
    
 3. User Story:
-   ```bash
    C). As a site administrator, I want to be able to not only have the right to take on and off posts that are harmful and cross the community guidelines as well as ensure that others aren't abusing policy!
 
 4. User Story:
-   ```bash
    D. As an Administrator I want to be able to pull all comments and provide statistics to interested buyers so that they can see how many people view the site as well as what they are doing while on the site to better provide a solid starting point for possibly a futher development of the web api
 
 5. User Story:
-   ```bash
    E). As a site user, I want to be able to post, comment, edit, and like/dislike certain content posted by others and myself.
 
 #### Acceptance-Criteria
 
 1. Acceptance Criteria for A):
-   ```bash
-   Content Submission - The user must be able to submit posts or articles that are centered around neurodiversity, autism awareness, and similar topics. There should be an option to categorize the content (e.g., "Autism Awareness", "Neurodivergence", "Educational", etc.) to ensure proper sorting and visibility.
+   Content Submission - The user must be able to submit posts or articles that are centered around neurodiversity, autism awareness, and similar topics. There should be an option to categorize the content (e.g., "Autism Awareness", "Neurodivergence", "Educational", etc.) to ensure proper sorting and visibility. There should also be sections for Accessibility Features and Content Moderation.
    
 3. Acceptance Criteria for B):
 4. Acceptance Ctriteria for C):
