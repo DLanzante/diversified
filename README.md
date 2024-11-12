@@ -115,7 +115,7 @@ Requirmenets you put in a system to prevent mis-user stories
 #### Mockup
 
 - This is a Mockup to understand what vision I want to pull together for my project!
-![Rough Mockup](https://github.com/DLanzante/diversified/blob/main/docs/Rough%20Draft.png)
+![Rough Mockup]()
 
 #### C4
 
