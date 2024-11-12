@@ -114,15 +114,21 @@ Requirmenets you put in a system to prevent mis-user stories
 
 #### Mockup
 
+- This is a Mockup to understand what vision I want to pull together for my project!
+![Rough Mockup](https://github.com/DLanzante/diversified/blob/main/docs/Rough%20Draft.png)
+
 #### C4
 
+- Context | Container | Component Diagrams
+
+- Context Diagram
 ![Context Diagram](https://github.com/DLanzante/diversified/blob/main/docs/System%20Context%20Diagram.png)
+- Container Diagram
 ![Container Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Container%20Diagram.png)
+- Component Diagram
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram.png)
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram%202.png)
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%203%20API%20Server.png)
-
-[Good Luck]
 
 <!-- LICENSE -->
 ### License
