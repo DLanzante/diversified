@@ -135,9 +135,11 @@ Requirmenets you put in a system to prevent mis-user stories
 ![Context Diagram](https://github.com/DLanzante/diversified/blob/main/docs/System%20Context%20Diagram.png)
 - Container Diagram
 ![Container Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Container%20Diagram.png)
-- Component Diagram
+- Component Diagram #1
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram.png)
+- Component Diagram Blow-up #2
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram%202.png)
+- Component Diagram Final #3
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%203%20API%20Server.png)
 
 <!-- LICENSE -->
