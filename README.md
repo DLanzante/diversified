@@ -42,15 +42,6 @@ We are going to be going over some of the most basic instructions of how to inst
 2. Change the Directory
    ```bash
    cd diversify
-   
-3. Using GitHub for Version Control
-    ```bash
-    git status
-    git init
-    git remote add origin <your-github-repository-url>
-    git add .
-    git commit -m "Initial commit"
-    git push -u origin main
 
 #### Getting-Started
 1. After this we can finally do our docker command to stand the app up to be able to use docker!
