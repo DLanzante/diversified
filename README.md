@@ -138,6 +138,10 @@ We are going to be going over some of the most basic instructions of how to inst
    - As a user who disagrees with certain viewpoints, I want to exploit the moderator’s reliance on automated systems to remove content that I find offensive, even if the posts don’t truly violate community guidelines.
 
 5. Mis-User Story for E):
+   - As a malicious user, I want to repeatedly dislike content that I disagree with, even if it's positive or constructive, to artificially skew the feedback and harm other users’ experiences.
+   - As a user with ill intentions, I want to create misleading or offensive posts to get more attention, and then like or comment on my own posts to artificially inflate engagement.
+   - As a user, I want to edit my posts and comments multiple times to change the context or mislead others without them being able to notice the change.
+   - As a user, I want to make it difficult for others to edit or delete their posts or comments, by creating toxic or irrelevant content that discourages engagement.
         
 
 #### Mitigating Criteria
@@ -159,11 +163,27 @@ Requirmenets you put in a system to prevent mis-user stories
    - Impact Notifications: Provide notifications that summarize the impact of posts, such as "Your post has been shared X times" or "Your post has reached X number of people."
    - Clear Timestamping and Visual Cues: Display timestamps for posts and comments, along with visual cues to indicate the most recent replies.
 
-3. Mitigation for C): As an admin I need to be able to put forth clear moderating guidelines as well as admin oversights such as allowing for peer revisioning as well as allowing for multiple admins needing to be present and to sing off on any deletions or any post modifications/ account modifications. Admins must follow automated checks as well as escalation procedures!
+3. Mitigation for C):
+   - Content Moderation & Fact-Checking: Implement automated and manual content moderation tools to detect harmful or misleading content. Collaborate with fact-checking organizations to verify posts that could spread misinformation.
+   - Edit & Delete Options for Comments: Allow users to edit or delete their comments after posting within a reasonable timeframe, ensuring that users can fix any errors or clarify their points.
+   - Clear Notifications for Edits: Implements a feature where users are notified if a comment has been edited, to maintain transparency and prevent confusion.
+   - Visual Indicators for Engagement: Implement a feature where users can see the number of replies, likes, or reactions to their comment, which serves as an indicator that others have seen or interacted with it.
+   - Activity Feed Updates: Include real-time updates or notifications when comments are successfully added or liked by other users, so that the user feels their engagement is acknowledged.
 
-4. Mitigation for D): For proper site administrating I am going to have to be providing data anonymoty and provacy, data processing, real-time data and finally secure API access.
+4. Mitigation for D):
+   - User Verification & Trusted Reporting: Implement a system where users must verify their identity or earn trust over time before they can submit reports, ensuring that only legitimate users are allowed to report.
+   - Rate-Limiting for Reports and Posts: Implement rate-limiting mechanisms to restrict the frequency of posts and reports that any single account or IP address can submit in a given timeframe, preventing mass reporting or spamming.
+   - Multiple Report Threshold: Require multiple users to report the same post before it is flagged for review, ensuring that a single malicious user cannot easily remove content.
+   - Automated False Claim Detection: Implement AI-powered tools that can analyze report patterns and automatically detect anomalies such as spammy or fake reports, which can then be flagged for review.
+   - Regularly Update Community Guidelines: Continuously review and update community guidelines to close any loopholes or areas that may allow harmful content to slip through the cracks.
+   - Manual Moderation for Edge Cases: Ensure that automated moderation is always supported by human oversight, particularly for borderline content that automated systems might flag incorrectly.
    
 5. Mitigation for E):
+   - Dislike Rate Limiting: Implement a rate limit for the number of times a user can dislike content within a certain time frame (e.g., one dislike per post per user per day) to prevent excessive manipulation of feedback.
+   - User Reputation System: Introduce a system where users who consistently engage in malicious activity, such as disliking constructive content, face consequences like temporary suspensions or restrictions on their account.
+   - Post Moderation for Offensive Content: Automatically flag posts containing offensive language or misinformation, and send them for review to prevent malicious users from posting harmful content.
+   - Time-Limited Edits: Set a time limit for how long a post or comment can be edited (e.g., within 1-3 hours of posting) to prevent significant context manipulation.
+   - Positive Engagement Encouragement: Incentivize users to engage positively by rewarding upvotes/likes on constructive or helpful content with badges or challenge coins, reducing the effectiveness of malicious actions.
 
 ### Diagrams
 
