@@ -192,7 +192,7 @@ Requirmenets you put in a system to prevent mis-user stories
 - This is a Mockup to understand what vision I want to pull together for my project!
 - This is mainly a Mock Up for a Site User
 
-![First Mockup for User](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-Component%20Diagram.drawio.png)
+![First Mockup for User](https://github.com/DLanzante/diversified/blob/main/docs/User%20Story%201.png)
 
 - This is going to be for the site users as well!
 - It mainly focuses on User interactions and how they will see their dashboard
