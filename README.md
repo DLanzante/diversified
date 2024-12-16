@@ -190,18 +190,38 @@ Requirmenets you put in a system to prevent mis-user stories
 #### Mockup
 
 - This is a Mockup to understand what vision I want to pull together for my project!
-![Rough Mockup](https://github.com/DLanzante/diversified/blob/main/docs/mockup.PNG)
+- This is mainly a Mock Up for a Site User
+
+![First Mockup for User](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-Component%20Diagram.drawio.png)
+
+- This is going to be for the site users as well!
+- It mainly focuses on User interactions and how they will see their dashboard
+
+![User Interactions](https://github.com/DLanzante/diversified/blob/main/docs/User%20Story%202%2C3%2C5.png)
+
+- This is a mock up of how the admin site would look like with all of their privileges
+![Admin Site](https://github.com/DLanzante/diversified/blob/main/docs/User%20Story%204.png)
+
 
 #### C4
 
 - Context | Container | Component Diagrams
 
+
 - Context Diagram
+
 ![Context Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-System%20Context%20Diagram.drawio.png)
+
+
 - Container Diagram
+
 ![Container Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-Container%20Diagram.drawio.png)
+
+
 - Component Diagram #1
+  
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-Component%20Diagram.drawio.png)
+
 
 <!-- LICENSE -->
 ### License
