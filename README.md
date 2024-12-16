@@ -10,6 +10,9 @@ Hello and good-afternoon, this is my **Neurodivergent Awareness Project called D
 - [Project Summary](#Project-Summary)
    - [Installation](#Installation)
    - [Getting Started](#Getting-Started)
+   - [Implementation](#Implementation)
+   - [Hardening](#Hardening)
+   - [Deployment](#Deployment)
 - [User Stories](#User-Stories)
    - [Acceptance Criteria](#Acceptance-Criteria)
    - [Mis-User Stories](#Mis-User-Stories)
@@ -17,7 +20,7 @@ Hello and good-afternoon, this is my **Neurodivergent Awareness Project called D
 - [Diagrams](#Diagrams)
    - [Mockup](#Mockup)
    - [C4 Diagrams](#C4)
-- [Prototype](#Prototype)
+- [Final Presentation](#Final-Presentation)
 - [License](#license)
 - [Contact](#contact)
 - [Citations](#Citations)
@@ -52,6 +55,12 @@ We are going to be going over some of the most basic instructions of how to inst
     python manage.py makemigrations
     python manage.py createsuperuser
     docker-compose up
+
+#### Implementation
+
+#### Hardening
+
+#### Deployment
 
 ### User-Stories
 
@@ -222,6 +231,7 @@ Requirmenets you put in a system to prevent mis-user stories
   
 ![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-Component%20Diagram.drawio.png)
 
+### Final Presentation
 
 <!-- LICENSE -->
 ### License
