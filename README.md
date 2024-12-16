@@ -59,7 +59,7 @@ We are going to be going over some of the most basic instructions of how to inst
    A). As a person with autism, I want to be able to submit and post certain things that I am passionate about others learning about, this is to educate others but also to spread awareness and a safe space for others with neuro-divergent conditions.
 
 2. User Story:
-   B). As a neuro-divergent individual I want to be able to view the communities posts and communities posts that I am interested in
+   B). As a neuro-divergent individual I want to be able to view community posts and the communities posts that I am interested in
 
 3. User Story:
    C). As a neuro-divergent individual I want to be able to comment on other posts so that I can share/spread my experiences and relate to others.
@@ -124,12 +124,20 @@ We are going to be going over some of the most basic instructions of how to inst
 
 3. Mis-User Story for C):
    - As a malicious user I want to be able to post badly about other people so that mis-information is being spread.
-   - 
+   - As a neuro-divergent individual, I want to comment on posts, but I am unable to edit or delete my comments, leaving me unable to correct mistakes or manage how my ideas are expressed.
+   - As a neuro-divergent individual, I want to comment on posts, but the platform doesn’t provide any feedback or indication that my comment has been received, making me feel invisible.
+   - As a neuro-divergent individual, I want to comment on posts, but the platform doesn’t have an option to limit or mute specific users whose comments are harmful or irrelevant to me.
+   - I want to comment on posts, but the commenting system doesn’t allow me to express myself fully, like adding links, images, or formatting my comment for clarity.
 
-5. Mis-User Story for D):
-   As an admin I want to be able to have full power to take out other people's posts and accounts without the approval from other admins.
+4. Mis-User Story for D):
+   - As an admin I want to be able to have full power to take out other people's posts and accounts without the approval from other admins.
+   - As a malicious user, I want to falsely report posts that I disagree with, so they are removed from the platform, silencing opinions I don't like.
+   - As a user with ill intentions, I want to manipulate the content moderation system by creating fake accounts to flood the site with harmful posts, knowing that the administrator will be overwhelmed and unable to review everything.
+   - As a user who dislikes a certain group, I want to target their posts by continuously reporting them for vague or unfounded violations, causing the administrator to remove the posts without valid justification.
+   - As a user, I want to manipulate the site's moderation system by exploiting loopholes in the community guidelines, allowing me to post harmful content while avoiding removal by administrators.
+   - As a user who disagrees with certain viewpoints, I want to exploit the moderator’s reliance on automated systems to remove content that I find offensive, even if the posts don’t truly violate community guidelines.
 
-6. Mis-User Story for E):
+5. Mis-User Story for E):
         
 
 #### Mitigating Criteria
@@ -153,7 +161,9 @@ Requirmenets you put in a system to prevent mis-user stories
 
 3. Mitigation for C): As an admin I need to be able to put forth clear moderating guidelines as well as admin oversights such as allowing for peer revisioning as well as allowing for multiple admins needing to be present and to sing off on any deletions or any post modifications/ account modifications. Admins must follow automated checks as well as escalation procedures!
 
-5. Mitigation for D): For proper site administrating I am going to have to be providing data anonymoty and provacy, data processing, real-time data and finally secure API access.
+4. Mitigation for D): For proper site administrating I am going to have to be providing data anonymoty and provacy, data processing, real-time data and finally secure API access.
+   
+5. Mitigation for E):
 
 ### Diagrams
 
