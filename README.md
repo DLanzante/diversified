@@ -201,7 +201,7 @@ Requirmenets you put in a system to prevent mis-user stories
 - Container Diagram
 ![Container Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-Container%20Diagram.drawio.png)
 - Component Diagram #1
-![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Component%20Diagram.png)
+![Component Diagram](https://github.com/DLanzante/diversified/blob/main/docs/Project%202%20Draft%202%20Drawing-Component%20Diagram.drawio.png)
 
 <!-- LICENSE -->
 ### License
